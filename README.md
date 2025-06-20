@@ -1,1 +1,1 @@
-# Proejto-1
+Contador de Tela para computadores.
